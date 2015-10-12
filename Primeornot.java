@@ -1,4 +1,4 @@
-package com.getingoogle;
+
 
 import java.util.Scanner;
 

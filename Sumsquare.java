@@ -1,4 +1,4 @@
-package com.getingoogle;
+
 public class Sumsquare {
 	public static void main(String[] args) {
 		int i,sqsum,ssqr = 0,sum=0;

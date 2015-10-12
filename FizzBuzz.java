@@ -1,4 +1,3 @@
-package com.getingoogle;
 
 public class FizzBuzz {
 
